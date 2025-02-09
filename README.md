@@ -9,7 +9,7 @@
 - 🔭 I’m currently studying in 3rd year computer science engineering  
   
 
-- 🌱 I’m currently learning java,python,js,htlm & css  
+- 🌱 I’m currently learning java,python,JS,HTML & CSS  
   
 
 - ❓ Ask me about anything related to MERN stack and front-end technologies  

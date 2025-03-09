@@ -1,9 +1,11 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hi+I'm+Yash;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+I'm+a+software+engineer;%F0%9F%90%B8+I+like+Gaming.)](https://git.io/typing-svg)
+
+
+
 <div align="center">
 <img src="https://www.onlinecoursereport.com/wp-content/uploads/2020/06/shutterstock_1150510607-2048x1024.jpg" align="center" style="width: 100%" />
 </div>  
   
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hi+I'm+Yash;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+I'm+a+software+engineer;%F0%9F%90%B8+I+like+Gaming.)](https://git.io/typing-svg)
 
   
 

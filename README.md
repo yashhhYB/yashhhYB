@@ -6,7 +6,6 @@
 - 🚀 Software Designer Intern at To-Let - Jun 2023 to Aug 2023
 - 🏥 Web Devloper Intern at Suvidha Foundation - Jan 2023 to Jun 2023
 
-
 ## 📰 About me
 -  Passionate Final year student at Pune University, specializing in frontend development, and Java development. Adept in Data Structures and Algorithms, I bring a fresh perspective to UI/UX design. Eager to contribute innovative solutions and collaborate on cutting-edge projects. Ready to embark on a dynamic journey in the world of technology.
 

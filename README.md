@@ -7,7 +7,7 @@
 - 🏥 Web Devloper Intern at Suvidha Foundation - Jan 2023 to Jun 2023
 
 ## 📰 About me
--  Passionate Final year student at Pune University, specializing in frontend development, and Java development. Adept in Data Structures and Algorithms, I bring a fresh perspective to UI/UX design. Eager to contribute innovative solutions and collaborate on cutting-edge projects. Ready to embark on a dynamic journey in the world of technology.
+-  I’m a Software Developer with 1+ years of hands-on experience building full-stack web and mobile applications using React.js, Flutter, Next.js, Firebase, and Supabase.My experience spans across freelancing, startups, and personal projects — delivering production-ready, scalable, and user-centric applications from design to deployment.
 
 ## 🛠️ Languages and Tools
 <div>

@@ -1,38 +1,97 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hi+I'm+Yashh;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+I'm+a+software+engineer;%F0%9F%90%B8+I+like+Gaming)](https://git.io/typing-svg)
 
-## 🖥️ Work Experience
-- 🌐 Ui Designer & Wordpress Intern at RicoZ - May 2024 - Aug 2024
-- 🚗 Front-End Dev Intern at ParkQwik - Jan 2024 - Apr 2024
-- 🚀 Software Designer Intern at To-Let - Jun 2023 to Aug 2023
-- 🏥 Web Devloper Intern at Suvidha Foundation - Jan 2023 to Jun 2023
+**Software Engineer** | Full-Stack Developer | Data Enthusiast
 
-## 📰 About me
--  I’m a Software Developer with 1+ years of hands-on experience building full-stack web and mobile applications using React.js, Flutter, Next.js, Firebase, and Supabase.My experience spans across freelancing, startups, and personal projects — delivering production-ready, scalable, and user-centric applications from design to deployment.
+Building scalable web applications and exploring the intersection of software engineering and data science.
 
-## 🛠️ Languages and Tools
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" height="40" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" height="40" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" height="40" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"
- title="Jenkins" alt ="Jenkins" width="40" height="40"/> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+![Profile Views](https://komarev.com/ghpvc/?username=yashhhYB&color=blueviolet&style=flat)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yashhhh](https://www.linkedin.com/in/yash-bodade-pradip/))
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)]([https://www.codechef.com/users/yashhhYB](https://www.codechef.com/users/yashbodadeyb33))
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yashhh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://your-portfolio-link.com](https://yashbodade.netlify.app/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashbodadeyb333@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yashhhYB)
+
+---
+##  Work Experience
+-  Associate Software Engineer at Higeria Technologies - Jun 2025 - Present
+-  Software Developer Apprentice at ThinkBridge - Jan 2025 - Jun 2025
+-  Ui Designer & Wordpress Intern at RicoZ - May 2024 - Jan 2025
+
+##  Tech Stack
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**Content Management Systems (CMS)**  
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=flat&logo=strapi&logoColor=white)
+![Contentful](https://img.shields.io/badge/Contentful-24303C?style=flat&logo=contentful&logoColor=white)  
+
+**Backend & APIs**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=flat&logo=strapi&logoColor=white)
+
+**Cloud & DevOps**  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=flat&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Data Science & ML**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white)
+
+---
+## ✨ Featured Projects
+
+| Project        | Description | Tech |
+| -------------- | ----------- | ---- |
+| [ Weekly Planerz](https://github.com/yashhhYB/weekly-planerz) | Plan, organize & track your weekly goals efficiently | React · Node.js · MongoDB · Express |
+| [ Helplink](https://github.com/yashhhYB/helplink) | Community-driven help platform assisting users with resources | Next.js · Firebase · Tailwind |
+| [ Doc Vault](https://github.com/yashhhYB/doc-vault) | Secure and easy document storage and sharing solution | Node.js · Azure Blob · PostgreSQL |
+| [ Railway Reservation System](https://github.com/yashhhYB/Railway-Reservation-System) | Real-time railway booking system and management | Node.js · PostgreSQL |
+| [ WanderLaw]([https://github.com/yashhhYB/wanderlaw](https://github.com/yashhhYB/wander-law-)) | Travel & legal briefings planner for digital nomads | React · Firebase · Express.js |
+
+---
+
+##  Hackathon & Achievements
+
+- 🏆 [HelpLink Hackathon Winner](https://www.linkedin.com/posts/yash-bodade-pradip_helplink-hackathon-aiforgood-ugcPost-7366013921079590915-2Rbq?utm_source=share&utm_medium=member_desktop&rcm=ACoAADwLPJQBv-_wcY9gJrdxtFI6WeKLUrUeDJM)
+- 🏆 [Hack4Health HealthTech CSBase](https://www.linkedin.com/posts/yash-bodade-pradip_hack4health-healthtech-csbase-ugcPost-7352191264357838851-6OaB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADwLPJQBv-_wcY9gJrdxtFI6WeKLUrUeDJM)
+- 🏆 [Google Maps Feature Share](https://www.linkedin.com/posts/yash-bodade-pradip_google-maps-support-share-7361996458956394497-1oe4?utm_source=share&utm_medium=member_desktop&rcm=ACoAADwLPJQBv-_wcY9gJrdxtFI6WeKLUrUeDJM)
+
+## ⚡ Coding Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashhhYB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
+---
 
-___
-#### [Personal Website](https://yashyb.rf.gd/) - [LinkedIn](https://www.linkedin.com/in/yash-bodade-pradip/) - [Email](mailto:yashbodadeyb333@gmail.com)
+<div align="center">
 <!---
 yashhhYB/yashhhYB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

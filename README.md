@@ -85,7 +85,7 @@ Building scalable web applications and exploring the intersection of software en
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<img src="https://streak-stats.demolab.com/?user=yashhhYB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yashhhYB&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashhhYB&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
